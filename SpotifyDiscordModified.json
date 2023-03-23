@@ -144,7 +144,7 @@
     "PRIMARY_DARK_800": "#181818",
     "BRAND_NEW": "#E6FF29",
     "STATUS_RED": "#5680d4",
-    "STATUS_GREEN_600": "#1db251"
+    "STATUS_GREEN_600": "#E6FF29"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#181818"
