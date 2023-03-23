@@ -18,7 +18,7 @@
       "#4f5660"
     ],
     "TEXT_NORMAL": [
-      "#09ebe7",
+      "#E6FF29",
       "#2e3338"
     ],
     "TEXT_MUTED": [
@@ -58,7 +58,7 @@
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#09ebe7",
+      "#E6FF29",
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
@@ -122,7 +122,7 @@
       "#6a7480"
     ],
     "TEXT_LINK": [
-      "#E6FF29",
+      "#5680d4",
       "#000000"
     ],
     "KEYBOARD": [
@@ -136,8 +136,8 @@
     "PRIMARY_DARK_200": "#FFFFFF",
     "PRIMARY_DARK_300": "#B6B6B6",
     "PRIMARY_DARK_360": "#C8C8C8",
-    "PRIMARY_DARK_400": "#09ebe7",
-    "PRIMARY_DARK_500": "#09ebe7",
+    "PRIMARY_DARK_400": "#078f8c",
+    "PRIMARY_DARK_500": "#078f8c",
     "PRIMARY_DARK_600": "#181818",
     "PRIMARY_DARK_630": "#101010",
     "PRIMARY_DARK_700": "#000000",
