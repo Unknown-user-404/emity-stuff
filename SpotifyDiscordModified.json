@@ -150,8 +150,7 @@
     "CHAT_GREY": "#181818"
   },
   "background": {
-    "blur": 0.1,
     "url": "https://cdn.discordapp.com/attachments/1058256497861197884/1088346049648799784/104494646_p1_master1200.png",
-    "alpha": 1.0
+    "alpha": 10.0
   }
 }
