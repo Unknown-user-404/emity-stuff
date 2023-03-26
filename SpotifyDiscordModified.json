@@ -115,7 +115,7 @@
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#111111",
-      "#99f2e0"
+      "#43f78e"
     ],
     "CHANNELS_DEFAULT": [
       "#b6b6b6",
@@ -127,13 +127,13 @@
     ],
     "KEYBOARD": [
       "#181818",
-      "#99f2e0"
+      "#43f78e"
     ]
   },
   "colours": {
     "PRIMARY_DARK": "#747474",
-    "PRIMARY_DARK_100": "#99f2e0",
-    "PRIMARY_DARK_200": "#99f2e0",
+    "PRIMARY_DARK_100": "#43f78e",
+    "PRIMARY_DARK_200": "#43f78e",
     "PRIMARY_DARK_300": "#43f78e",
     "PRIMARY_DARK_360": "#43e78e",
     "PRIMARY_DARK_400": "#078f8c",
