@@ -63,11 +63,11 @@
     ],
     "BACKGROUND_FLOATING": [
       "#202020",
-      "#FFFFFF"
+      "#99f2e0"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#202020",
-      "#f8f9f9"
+      "#99f2e0"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#000000",
@@ -75,7 +75,7 @@
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#121212",
-      "#ffffff"
+      "#99f2e0"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "rgba(255, 255, 255, 0.02)",
@@ -127,7 +127,7 @@
     ],
     "KEYBOARD": [
       "#181818",
-      "#FFFFFF"
+      "#99f2e0"
     ]
   },
   "colours": {
