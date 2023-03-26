@@ -30,7 +30,7 @@
       "#4f5660"
     ],
     "INTERACTIVE_HOVER": [
-      "#dcddde",
+      "#99f2e0",
       "#2e3338"
     ],
     "INTERACTIVE_ACTIVE": [
@@ -50,12 +50,12 @@
       "#99f2e0"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#e0e0e0",
-      "#ebedef"
+      "#99f2e0",
+      "#99e2e0"
     ],
     "BACKGROUND_TERTIARY": [
       "#121212",
-      "#e3e5e8"
+      "#99f2e0"
     ],
     "BACKGROUND_ACCENT": [
       "#09ebe7",
@@ -79,7 +79,7 @@
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "rgba(255, 255, 255, 0.02)",
-      "#FFFFFF"
+      "#99f2e0"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "rgba(255, 255, 255, 0.02)",
