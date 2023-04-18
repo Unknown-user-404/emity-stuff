@@ -55,7 +55,7 @@
     ],
     "BACKGROUND_TERTIARY": [
       "#121212",
-      "#275435"
+      "#43f78e"
     ],
     "BACKGROUND_ACCENT": [
       "#09ebe7",
@@ -67,7 +67,7 @@
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#202020",
-      "#43f78e"
+      "#275435"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#000000",
