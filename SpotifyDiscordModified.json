@@ -67,7 +67,7 @@
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#202020",
-      "#275435"
+      "#43f78e"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#000000",
@@ -75,7 +75,7 @@
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#121212",
-      "#43f78e"
+      "#275435"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "rgba(255, 255, 255, 0.02)",
@@ -115,7 +115,7 @@
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#111111",
-      "#43f78e"
+      "#275435"
     ],
     "CHANNELS_DEFAULT": [
       "#b6b6b6",
