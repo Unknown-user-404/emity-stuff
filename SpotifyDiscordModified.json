@@ -43,19 +43,19 @@
     ],
     "BACKGROUND_PRIMARY": [
       "#090909",
-      "#43f78e"
+      "#275435"
     ],
     "BACKGROUND_SECONDARY": [
       "#282828",
-      "#43f78e"
+      "#275435"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#43f78e",
-      "#43e78e"
+      "#275435",
+      "#275435"
     ],
     "BACKGROUND_TERTIARY": [
       "#121212",
-      "#43f78e"
+      "#275435"
     ],
     "BACKGROUND_ACCENT": [
       "#09ebe7",
@@ -63,11 +63,11 @@
     ],
     "BACKGROUND_FLOATING": [
       "#202020",
-      "#43f78e"
+      "#275435"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#202020",
-      "#43f78e"
+      "#275435"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#000000",
@@ -79,7 +79,7 @@
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "rgba(255, 255, 255, 0.02)",
-      "#43f78e"
+      "#275435"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "rgba(255, 255, 255, 0.02)",
@@ -115,7 +115,7 @@
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#111111",
-      "#43f78e"
+      "#275435"
     ],
     "CHANNELS_DEFAULT": [
       "#b6b6b6",
@@ -127,12 +127,12 @@
     ],
     "KEYBOARD": [
       "#181818",
-      "#43f78e"
+      "#275435"
     ]
   },
   "colours": {
     "PRIMARY_DARK": "#747474",
-    "PRIMARY_DARK_100": "#43f78e",
+    "PRIMARY_DARK_100": "#275435",
     "PRIMARY_DARK_200": "#275435",
     "PRIMARY_DARK_300": "#275435",
     "PRIMARY_DARK_360": "#275435",
